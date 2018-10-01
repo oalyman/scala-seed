@@ -1,0 +1,3 @@
+= Scala Seed
+
+http://www.foundweekends.org/giter8/[Giter8] Template for a basic SBT Scala Project

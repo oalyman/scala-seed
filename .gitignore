@@ -1,0 +1,12 @@
+.idea
+*.ipr
+
+*.log
+
+target
+project/project
+.cache
+.classpath
+.project
+.settings
+bin
