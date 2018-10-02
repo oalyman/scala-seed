@@ -8,7 +8,7 @@ object Dependencies {
   )
 
   lazy val testDeps: Seq[ModuleID] = Seq(
-    "org.scalatest" %% "scalatest" % "3.0.5"
+    "org.scalatest" %% "scalatest" % "3.0.5" % Test
   )
 
 }
